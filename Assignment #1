@@ -1,0 +1,7 @@
+letters = {"A": " ***** \n*     *\n*     *\n*******\n*     *\n*     *\n*     *",
+           "B": "*****\n*    *\n*    *\n***** \n*    *\n*    *\n***** ",
+           "Y": "*       *\n *     * \n  *   *  \n   * *   \n    *    \n    *    \n    *    "
+           }
+name = "ABBY"
+for i in name:
+    print(letters[i])
